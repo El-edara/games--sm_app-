@@ -1,4 +1,6 @@
+import Games from "./games/page";
+
 const Home = () => {
-  return <div>Home</div>;
+  return <Games />;
 };
 export default Home;
